@@ -1,0 +1,9 @@
+{
+  "name": "cetele-takip",
+  "version": "1.0.0",
+  "description": "Çetele Takip Sistemi",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
